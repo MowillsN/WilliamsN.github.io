@@ -87,4 +87,22 @@ SQL Joins: Querried the dateset using sql join to get deeper insights
 
 
 
+# Hospital patients Analysis (SQL)
+
+**Title:** Hospital_Patients_Analysis
+
+**SQL Code:**[Hospital_Patients_Analysis](https://github.com/MowillsN/WilliamsN.github.io/blob/main/Heathcare_Analysis.sql)
+
+**SQL Skills Used:** 
+Data Retrieval (SELECT): Queried and extracted specific information from the database.
+Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+SQL Joins: Querried the dateset using sql join to get deeper insights
+
+**Project Description:**
+
+**Technology used:** SQL server
+
+
 
