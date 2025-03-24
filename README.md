@@ -10,8 +10,6 @@ This project focuses on analyzing a large dataset containing over 100,000 record
 
 The goal of this project is to conduct a comprehensive analysis of sales data, uncover trends, and derive insights that will help optimize product offerings, pricing strategies, and customer targeting. Key objectives include:
 
-By conducting this analysis, the project aims to provide recommendations for improving customer targeting, optimizing product assortment, adjusting pricing strategies, and enhancing overall profitability. The findings will be valuable for decision-making across marketing, sales, and product management teams.
-
 **Key findings:**
 
 **1.  Customer Demographics and Segmentation**
