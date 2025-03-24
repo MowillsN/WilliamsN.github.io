@@ -64,10 +64,28 @@ The goal of this project is to conduct a comprehensive analysis of sales data, u
 
 **SQL Skills Used:** 
 Data Retrieval (SELECT): Queried and extracted specific information from the database.
-Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+Data Aggregation (SUM, COUNT): Calculated totals, counted records to analyze data trends.
 Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
 Data Source Specification (FROM): Specified the tables used as data sources for retrieval
 Windows Functions: Partition, Row Number, Over
+
+**Project Description:**
+
+**Technology used:** SQL server
+
+
+# Movie Rental Service Analysis (SQL)
+
+**Title:** Movie_Rental_Service_Analysis
+
+**SQL Code:**[Movie_Rental_Service_Analysis](https://github.com/MowillsN/WilliamsN.github.io/blob/main/Movie_Rental_Service_Analysis.sql)
+
+**SQL Skills Used:** 
+Data Retrieval (SELECT): Queried and extracted specific information from the database.
+Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+SQL Joins: Querried the dateset using sql join to get deeper insights
 
 **Project Description:**
 
