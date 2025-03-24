@@ -73,7 +73,7 @@ This project analyzes the sales performance of a telecom company, driving valuab
 
 **Dashboard Overview:**
 
-![Sales_Analysis](Sales_Analysis.png)
+![Sales_Analysis](Sales Performance Dashboard.png)
 
 
 
