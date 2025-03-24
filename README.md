@@ -1,4 +1,4 @@
-# SALES ANALYSIS (MICROSOFT EXCEL)
+# ONLINE RETAIL SALES ANALYSIS (MICROSOFT EXCEL)
 
 **Title:** [Online Retail Sales Analysis](https://github.com/MowillsN/WilliamsN.github.io/blob/main/sales_analysis_dashboard.xlsx)
 
@@ -8,7 +8,7 @@
 
 This project focuses on analyzing a large dataset containing over 100,000 records of customer transactions across multiple years, countries, and product categories. The dataset includes detailed information about customer demographics, purchase behavior, and product performance, offering an opportunity to generate actionable insights for improving business strategies.
 
-The goal of this project is to conduct a comprehensive analysis of sales data, uncover trends, and derive insights that will help optimize product offerings, pricing strategies, and customer targeting. Key objectives include:
+The goal of this project is to conduct a comprehensive analysis of sales data, uncover trends, and derive insights that will help optimize product offerings, pricing strategies, and customer targeting.
 
 **Key findings:**
 
@@ -54,6 +54,29 @@ The goal of this project is to conduct a comprehensive analysis of sales data, u
 **Dashboard Overview:**
 
 ![Sales_Analysis](Sales_Analysis.png)
+
+
+# Adidas SALES ANALYSIS (MICROSOFT EXCEL)
+
+**Title:** [Adidas Sales Analysis](https://github.com/MowillsN/WilliamsN.github.io/blob/main/Adidas%20Sales%20Analysis%20Dashboard.xlsx)
+
+**Tools Used:** Advanced Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Conditional formating)
+
+**Project Description:**
+
+This project focuses on analyzing a dataset related to Adidas sales, customer demographics, and product performance to uncover actionable insights that can inform business strategies. By analyzing historical sales data, customer behavior, and inventory performance, the project aims to help Adidas (or a similar retailer) optimize product offerings, pricing strategies, and customer engagement
+
+**Key findings:**
+
+. Of all the retailers, West Gear generated the most sales with a total sale of $242,964,333
+. Most of the sales occur in-store, compared to online and outlets.
+. New York generated the most sales.
+. Adidas experienced a major inccrease in sales in 2021 compared to 2020
+
+
+**Dashboard Overview:**
+
+![Sales_Analysis](Adidas_Sales_Analysis.png)
 
 
 # Workplace Safety Analysis (SQL)
