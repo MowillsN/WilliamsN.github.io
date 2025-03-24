@@ -84,13 +84,31 @@ This project analyzes the sales performance of a telecom company, driving valuab
 **SQL Code:**[WorkplaceSafetyAnalysis](https://github.com/MowillsN/WilliamsN.github.io/blob/main/WorkplaceSafetyAnalysis.sql)
 
 **SQL Skills Used:** 
-Data Retrieval (SELECT): Queried and extracted specific information from the database.
-Data Aggregation (SUM, COUNT): Calculated totals, counted records to analyze data trends.
-Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
-Data Source Specification (FROM): Specified the tables used as data sources for retrieval
-Windows Functions: Partition, Row Number, Over
+
+*Aggregation Functions:* COUNT(), SUM(), AVG(), MAX(): Used to calculate counts, sums, averages, and maximum values for various columns like incidents, costs, and days lost.
+
+*Grouping Data:* GROUP BY: Groups data by specific columns (e.g., department, plant) to allow aggregation.
+
+*Filtering Data:*
+
+WHERE: Filters data before aggregation, e.g., to focus on specific incident types or report types.
+
+HAVING: Filters data after grouping, e.g., to find departments with incidents lasting more than two days.
+
+*Window Functions:* ROW_NUMBER(): Assigns a unique number to rows based on specified ordering, used for ranking incidents or reports.
+
+*Date and Time Functions:* YEAR(), MONTH(), FORMAT(): Extracts and formats date values for grouping incidents by year, month, or shift.
+
+*Subqueries and Common Table Expressions (CTEs):*
+
+WITH clause: Used to create reusable query blocks (CTEs) for ranking or filtering data (e.g., ranking departments by incident counts).
+
+*Sorting Data:* ORDER BY: Sorts results by specified columns in ascending or descending order.
+
 
 **Project Description:**
+
+This project involves analyzing workplace safety data to identify patterns and trends related to incidents, costs, and the impact on employees. Using SQL queries to explore a comprehensive dataset, the goal is to provide actionable insights into the frequency and severity of incidents, their associated costs, and the factors influencing safety in the workplace. The analysis covers various aspects, such as incident types, departments, shifts, age groups, plants, and costs, with a focus on identifying high-risk areas and opportunities for improvement
 
 **Technology used:** SQL server
 
@@ -102,13 +120,30 @@ Windows Functions: Partition, Row Number, Over
 **SQL Code:**[Movie_Rental_Service_Analysis](https://github.com/MowillsN/WilliamsN.github.io/blob/main/Movie_Rental_Service_Analysis.sql)
 
 **SQL Skills Used:** 
-Data Retrieval (SELECT): Queried and extracted specific information from the database.
-Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
-Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
-Data Source Specification (FROM): Specified the tables used as data sources for retrieval
-SQL Joins: Querried the dateset using sql join to get deeper insights
+
+*SELECT & Filtering:*
+
+  SELECT for querying specific columns.
+
+  WHERE and HAVING for filtering data based on conditions.
+
+*Aggregation Functions:*
+
+  COUNT(), SUM(), MAX(), MIN() for counting, summing, and finding the maximum or minimum values.
+
+*Grouping Data:* GROUP BY to group data by columns for aggregation.
+
+*Joins:* INNER JOIN and LEFT JOIN for combining data from multiple tables.
+
+*Date Functions:* LEFT() and DATE_FORMAT() for extracting date parts like year and month.
+
+*Subqueries and Temporary Tables:* Using subqueries and CREATE TEMPORARY TABLE for intermediate results and complex filtering.
+
+*Advanced Reporting:* COUNT(DISTINCT) for counting unique values, and using shorthand like GROUP BY 1 for simplicity.
 
 **Project Description:**
+
+This project involves analyzing a movie rental service's database to uncover key insights and trends related to customer behavior, movie rentals, revenue generation, and store performance. The database includes tables for customers, films, rentals, stores, and payments, among others. The goal is to provide valuable business insights that can guide marketing campaigns, customer rewards programs, and overall business strategy.
 
 **Technology used:** SQL server
 
@@ -121,13 +156,26 @@ SQL Joins: Querried the dateset using sql join to get deeper insights
 **SQL Code:**[Hospital_Patients_Analysis](https://github.com/MowillsN/WilliamsN.github.io/blob/main/Heathcare_Analysis.sql)
 
 **SQL Skills Used:** 
-Data Retrieval (SELECT): Queried and extracted specific information from the database.
-Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
-Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
-Data Source Specification (FROM): Specified the tables used as data sources for retrieval
-SQL Joins: Querried the dateset using sql join to get deeper insights
+
+*Basic Queries:* Retrieving and counting data (e.g., using SELECT, COUNT, SUM, AVG).
+
+*Grouping & Aggregation:* Grouping data by columns (GROUP BY) and filtering groups (HAVING).
+
+*Window Functions:* Ranking and partitioning data (DENSE_RANK(), SUM() OVER).
+
+*Joins & Subqueries:* Combining and embedding queries for detailed data retrieval (INNER JOIN, subqueries).
+
+*Date Functions:* Calculating differences between dates (DATEDIFF).
+
+*Stored Procedures:* Creating reusable procedures for tasks like matching blood donors.
+
+*Conditional Logic:* Using CASE statements to categorize data.
+
+
 
 **Project Description:**
+
+This project involves performing a comprehensive analysis of a healthcare database, aimed at understanding patient demographics, medical conditions, treatment patterns, and financial aspects associated with healthcare services. The queries are designed to extract insights from a dataset containing patient records, including their medical conditions, hospital visits, treatments, billing amounts, insurance providers, and more.
 
 **Technology used:** SQL server
 
