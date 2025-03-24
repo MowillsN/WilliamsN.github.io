@@ -1,4 +1,4 @@
-# Project 1
+# SALES ANALYSIS (MICROSOFT EXCEL)
 
 **Title:** [Online Retail Sales Analysis](https://github.com/MowillsN/WilliamsN.github.io/blob/main/sales_analysis_dashboard.xlsx)
 
@@ -6,14 +6,59 @@
 
 **Project Description:**
 
+This project focuses on analyzing a large dataset containing over 100,000 records of customer transactions across multiple years, countries, and product categories. The dataset includes detailed information about customer demographics, purchase behavior, and product performance, offering an opportunity to generate actionable insights for improving business strategies.
+
+The goal of this project is to conduct a comprehensive analysis of sales data, uncover trends, and derive insights that will help optimize product offerings, pricing strategies, and customer targeting. Key objectives include:
+
+By conducting this analysis, the project aims to provide recommendations for improving customer targeting, optimizing product assortment, adjusting pricing strategies, and enhancing overall profitability. The findings will be valuable for decision-making across marketing, sales, and product management teams.
+
 **Key findings:**
+
+**1.  Customer Demographics and Segmentation**
+
+**Age Group Trends:**
+
+-Which age groups are the most active buyers.
+
+-How purchasing behavior varies across different age groups.
+
+**Gender Insights:** do male customers spend more on accessories than females, or is the revenue split more balanced?
+
+**2. Geographic Insights**
+
+*Country and State Segmentation:* 
+
+- Which countries and states generate the most revenue.
+
+- Are certain regions more profitable than others?
+
+**3. Product Performance**
+
+*Product Category and Sub-Category Insights:*
+
+-	Which product categories and sub-categories (e.g., "Accessories" and "Bike Racks") generate the most sales, revenue, and profit?
+  
+-	Most popular products in each category and identify trends over time.
+  
+**4. Financial Insights**
+
+*Revenue and Profit Analysis:*
+ 
+- How the total revenue compare to total costs? This reveals the overall profitability.
+  
+- Profit margins were calculated and analyzed across different product categories, sub-categories, or customer demographics.
+  
+**5. Sales Trends and Seasonality**
+
+-	Year-on-Year Comparison: You can analyze how sales, revenue, and profit have changed over the years by comparing records from different years 
+
 
 **Dashboard Overview:**
 
 ![Sales_Analysis](Sales_Analysis.png)
 
 
-# Project 2
+# Workplace Safety Analysis (SQL)
 
 **Title:** WorkplaceSafetyAnalysis
 
