@@ -182,7 +182,7 @@ This project involves performing a comprehensive analysis of a healthcare databa
 
 # E-COMMERCE SALES ANALYSIS (POWER BI)
 
-**Title:** [E-COMMERCE SALES ANALYSIS](https://github.com/MowillsN/WilliamsN.github.io/blob/main/sales_analysis_dashboard.xlsx)
+**Title:** [E-COMMERCE SALES ANALYSIS](https://github.com/MowillsN/WilliamsN.github.io/blob/main/Ecommerce_Sales_Insights.pbix)
 
 **Tools Used:** Power BI,Power Query, Dax
 
@@ -207,6 +207,6 @@ This project provides a detailed analysis of an e-commerce business using Power 
 
 **Dashboard Overview:**
 
-![Sales_Analysis](Sales_Analysis.png)
+![E-commerce_Sales_Analysis](ecommerceDashboard.png)
 
 
