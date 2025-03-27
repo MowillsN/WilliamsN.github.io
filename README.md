@@ -226,6 +226,6 @@ This project involves analyzing road accidents across the UK using Power BI to i
 
 **Dashboard Overview:**
 
-![E-commerce_Sales_Analysis](Road_Accidents_Analysis.PNG)
+![UK ROAD ACCIDENT ANALYSIS](Road_Accidents_Analysis.PNG)
 
 
