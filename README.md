@@ -204,9 +204,28 @@ This project provides a detailed analysis of an e-commerce business using Power 
 - Regional Sales Performance Analysis
 
 
+# UK ROAD ACCIDENT ANALYSIS (POWER BI)
+
+**Title:** [UK ROAD ACCIDENT ANALYSIS](https://github.com/MowillsN/WilliamsN.github.io/blob/main/Road%20Accidents%20Dashboard.pbix)
+
+**Tools Used:** Power BI,Power Query, Dax
+
+**Project Description:**
+
+This project involves analyzing road accidents across the UK using Power BI to identify key trends, patterns, and insights. By visualizing accident data through interactive dashboards, the project highlights critical factors such as accident frequency, locations, causes, and severity. Key metrics such as accident types, time of occurrence, and weather conditions are explored to uncover patterns and inform road safety strategies. The analysis also incorporates geographic and temporal trends, providing a deeper understanding of high-risk areas and times. Ultimately, the project aims to support data-driven decision-making for improving road safety and reducing accidents across the UK.
+
+**KEY FINDINGS:**
+- Primary KPIs: Total Casualties and Total Accidents for the Current Year, along with Year-over-Year (YoY) Growth  
+- Primary KPIs: Total Casualties by Accident Severity for the Current Year, with YoY Growth  
+- Secondary KPIs: Total Casualties by Vehicle Type for the Current Year  
+- Monthly Trend: Casualties Comparison between the Current Year and Previous Year  
+- Casualties by Road Type for the Current Year  
+- Casualties by Area/Location and Day/Night for the Current Year  
+- Total Casualties and Total Accidents by Location
+
 
 **Dashboard Overview:**
 
-![E-commerce_Sales_Analysis](ecommerceDashboard.png)
+![E-commerce_Sales_Analysis](Road_Accidents_Analysis.PNG)
 
 
