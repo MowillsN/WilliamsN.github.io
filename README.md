@@ -180,4 +180,33 @@ This project involves performing a comprehensive analysis of a healthcare databa
 **Technology used:** SQL server
 
 
+# E-COMMERCE SALES ANALYSIS (POWER BI)
+
+**Title:** [E-COMMERCE SALES ANALYSIS](https://github.com/MowillsN/WilliamsN.github.io/blob/main/sales_analysis_dashboard.xlsx)
+
+**Tools Used:** Power BI,Power Query, Dax
+
+**Project Description:**
+
+This project provides a detailed analysis of an e-commerce business using Power BI tools. Key business metrics and trends are showcased through an interactive dashboard, enabling data-driven decision-making to drive growth. The project also includes forecasting methods for predictive analysis.
+
+**KEY FINDINGS:**
+- Key Performance Indicators (KPIs): Total Profit, Total Sales, Total Quantity, Profit Margin%
+
+- Monthly Trends: Sales and Profit Insights
+
+- Category Breakdown: Profits, Sales, and Sales Percentage
+
+- Geographic Sales Analysis: States and Regions
+
+- Top 5 & Bottom 5 Products Analysis
+
+- Regional Sales Performance Analysis
+
+
+
+**Dashboard Overview:**
+
+![Sales_Analysis](Sales_Analysis.png)
+
 
