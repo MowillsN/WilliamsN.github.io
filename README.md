@@ -203,6 +203,9 @@ This project provides a detailed analysis of an e-commerce business using Power 
 
 - Regional Sales Performance Analysis
 
+**Dashboard Overview:**
+
+![E-COMMERCE_SALES](ecommerceDashboard.png)
 
 # UK ROAD ACCIDENT ANALYSIS (POWER BI)
 
